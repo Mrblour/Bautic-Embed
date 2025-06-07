@@ -44,14 +44,14 @@ Necesitas [Python](https://www.python.org/downloads/) (3.6+ recomendado) y `pip`
 1.  Crea la estructura de carpetas indicada.
 2.  Coloca los archivos en sus ubicaciones (`app.py`, `index.html`, `style.css`, `script.js`, `logo.png`).
 
+````
 ### Dependencias
 
 Instala las librerías desde la raíz del proyecto:
 
 ```bash
 pip install Flask requests
-````
-
+```
 ### Ejecutar Aplicación
 
 Desde la raíz del proyecto, inicia Flask:
