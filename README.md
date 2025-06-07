@@ -7,7 +7,7 @@ Aquí tienes una versión del `README.md` con ese enfoque, más adaptada a lo qu
 ```markdown
 # Discord Embed Creator - Bautic Studios
 
-![Bautic Studios Logo](static/images/logo.png)
+![Bautic Studios Logo]([static/images/logo.png](https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/ca4ab0226866091.6835ef0b40165.png))
 
 Este proyecto Flask crea y envía Discord Embeds vía webhook. Su interfaz es moderna y visualmente atractiva, inspirada en "OnlyPipe" y "Paysend link", con un fondo degradado vibrante, glassmorphism sutil y sin sombras.
 
