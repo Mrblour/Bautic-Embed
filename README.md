@@ -1,8 +1,8 @@
-![Bautic Studios Logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/ca4ab0226866091.6835ef0b40165.png)
------
 
 ```markdown
 # Discord Embed Creator - Bautic Studios
+
+![Bautic Studios Logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/ca4ab0226866091.6835ef0b40165.png)
 
 Este proyecto Flask crea y envía Discord Embeds vía webhook. Su interfaz es moderna y visualmente atractiva, inspirada en "OnlyPipe" y "Paysend link", con un fondo degradado vibrante, glassmorphism sutil y sin sombras.
 
@@ -20,17 +20,17 @@ Este proyecto Flask crea y envía Discord Embeds vía webhook. Su interfaz es mo
 
 ```
 
-Bautic - Embed
-- app.py
-- templates
-- - index.html
-- static
-- - css/
-- - - style.css
-- - js/
-- - - script.js
-- - images/
-- - - logo.png
+Bautic - Embed/
+├── app.py
+├── templates/
+│   └── index.html
+└── static/
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+└── images/
+└── logo.png
 
 ````
 
@@ -44,21 +44,20 @@ Necesitas [Python](https://www.python.org/downloads/) (3.6+ recomendado) y `pip`
 
 1.  Crea la estructura de carpetas indicada.
 2.  Coloca los archivos en sus ubicaciones (`app.py`, `index.html`, `style.css`, `script.js`, `logo.png`).
-````
+
 ### Dependencias
 
 Instala las librerías desde la raíz del proyecto:
-bash
-```
+
+```bash
 pip install Flask requests
-```
 ````
 
 ### Ejecutar Aplicación
 
 Desde la raíz del proyecto, inicia Flask:
-bash
-```
+
+```bash
 python app.py
 ```
 
@@ -83,20 +82,31 @@ Si el diseño no es el esperado, verifica `static/css/style.css` con el código 
 
 ## ⬇️ Descarga
 
-Clona el repositorio para obtener una copia local:
+Tienes dos opciones para obtener el proyecto:
 
-```bash
-git clone [https://github.com/tu-usuario/nombre-de-tu-repositorio.git](https://github.com/tu-usuario/nombre-de-tu-repositorio.git)
-```
+1.  **Clonar el Repositorio (Recomendado para desarrolladores):**
 
-*(Reemplaza `tu-usuario` y `nombre-de-tu-repositorio` con tus datos.)*
+    ```bash
+    git clone [https://github.com/tu-usuario/nombre-de-tu-repositorio.git](https://github.com/tu-usuario/nombre-de-tu-repositorio.git)
+    ```
+
+    *(Asegúrate de reemplazar `tu-usuario` y `nombre-de-tu-repositorio` con los datos reales de tu repositorio en GitHub.)*
+
+2.  **Descargar como ZIP (Para usuarios sin Git):**
+    Puedes descargar la última versión del código fuente directamente como un archivo ZIP desde la página de GitHub de este repositorio. Simplemente haz clic en el botón verde `<> Code` y luego selecciona `Download ZIP`.
+
+    [**Descargar Proyecto como ZIP**](https://www.google.com/search?q=https://github.com/tu-usuario/nombre-de-tu-repositorio/archive/refs/heads/main.zip)
+    *(Reemplaza `tu-usuario`, `nombre-de-tu-repositorio` y `main.zip` (por la rama principal de tu repositorio, que puede ser `main` o `master`) con tus datos reales.)*
 
 ## 🤝 Soporte
 
 Para problemas, preguntas o ayuda:
 
   * **Abre un `Issue`** en este repositorio de GitHub.
-  * **Contáctanos:** [tu-correo-electronico@example.com](mailto:tu-correo-electronico@example.com) o [https://bauticstudios.com](https://www.google.com/search?q=https://bauticstudios.com).
+  * **Contáctanos:** [tu-correo-electronico@example.com](mailto:tu-correo-electronico@example.com) o visita nuestro sitio web [https://bauticstudios.com](https://bauticstudios.com).
 
 <!-- end list -->
+
+```
+```
 
