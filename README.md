@@ -1,7 +1,3 @@
-¡Aquí tienes el `README.md` perfecto para tu repositorio de GitHub! Está formateado con Markdown, listo para copiar y pegar. Incluye la información clave, la estructura del proyecto, cómo configurarlo, y una sección de uso, todo alineado con los últimos cambios y el diseño que hemos trabajado.
-
----
-
 ```markdown
 # Discord Embed Creator - Bautic Studios
 
