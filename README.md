@@ -1,13 +1,8 @@
-¡Entendido\! Quieres que el `README.md` sea más conciso, destacando lo más importante y manteniendo los bloques de código y el árbol de directorios claros y separados. La idea es que la prosa sea más directa y los detalles técnicos (como comandos o estructuras) queden en sus respectivos bloques.
-
-Aquí tienes una versión del `README.md` con ese enfoque, más adaptada a lo que describes como "texto solo lo más importante" y mejorando la legibilidad.
-
+![Bautic Studios Logo]([static/images/logo.png](https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/ca4ab0226866091.6835ef0b40165.png))
 -----
 
 ```markdown
 # Discord Embed Creator - Bautic Studios
-
-![Bautic Studios Logo]([static/images/logo.png](https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/ca4ab0226866091.6835ef0b40165.png))
 
 Este proyecto Flask crea y envía Discord Embeds vía webhook. Su interfaz es moderna y visualmente atractiva, inspirada en "OnlyPipe" y "Paysend link", con un fondo degradado vibrante, glassmorphism sutil y sin sombras.
 
