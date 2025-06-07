@@ -1,4 +1,4 @@
-![Bautic Studios Logo]([static/images/logo.png](https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/ca4ab0226866091.6835ef0b40165.png))
+![Bautic Studios Logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/ca4ab0226866091.6835ef0b40165.png)
 -----
 
 ```markdown
