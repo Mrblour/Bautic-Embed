@@ -53,7 +53,6 @@ bash
 pip install Flask requests
 ```
 ````
-````
 
 ### Ejecutar Aplicación
 
