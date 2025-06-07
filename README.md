@@ -108,7 +108,7 @@ Tienes dos opciones para obtener el proyecto:
 Para problemas, preguntas o ayuda:
 
   * **Abre un `Issue`** en este repositorio de GitHub.
-  * **Contáctanos:** [Nuestro Discord][(mailto:tu-correo-electronico@example.com](https://discord.gg/tX3YS4xGgF)).
+  * **Contáctanos:** [Nuestro Discord](https://discord.gg/tX3YS4xGgF)).
 
 <!-- end list -->
 
