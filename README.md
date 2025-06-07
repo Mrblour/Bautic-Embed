@@ -31,11 +31,11 @@ tu\_proyecto
 - - index.html
 - static
 - - css/
-   └── style.css
+- - - style.css
 - - js/
-   └── script.js
+- - - script.js
 - - images/
-   └── logo.png
+- - - logo.png
 
 ````
 
