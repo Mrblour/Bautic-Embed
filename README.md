@@ -2,23 +2,19 @@
 ```markdown
 # Discord Embed Creator - Bautic Studios
 
+This Flask project creates and sends Discord Embeds via webhook. Its interface is modern and visually appealing, inspired by "OnlyPipe" and "Paysend link", featuring a vibrant gradient background, subtle glassmorphism, and no shadows.
 
-Este proyecto Flask crea y envía Discord Embeds vía webhook. Su interfaz es moderna y visualmente atractiva,
-inspirada en "OnlyPipe" y "Paysend link", con un fondo degradado vibrante, glassmorphism sutil y sin sombras.
+## 🌟 Key Features
 
-## 🌟 Características Principales
+* **Modern Interface:** Design with a gradient background (blue to black, or dark to vibrant purple, similar to OnlyPipe), glassmorphism, and shadow-free styling.
+* **Complete Embed Creation:** Configure author, body, color, images, footer, and timestamp.
+* **Dynamic Fields:** Add and remove fields (`fields`) directly from the interface.
+* **URL Validation:** Ensures the validity of URLs.
+* **Status Messages:** Clear feedback on embed sending.
+* **Bootstrap Icons:** Enhances usability and aesthetics.
+* **Custom Favicon:** The Bautic Studios logo as the browser tab icon.
 
-* **Interfaz Moderna:** Diseño con fondo degradado (azul a negro, o morado oscuro
-a vibrante, similar a OnlyPipe), glassmorphism y estilo sin sombras.
-* **Creación de Embeds Completa:** Configura autor, cuerpo, color,
-imágenes, pie de página y timestamp.
-* **Campos Dinámicos:** Agrega y elimina campos (`fields`) directamente desde la interfaz.
-* **Validación de URL:** Asegura la validez de las URLs.
-* **Mensajes de Estado:** Feedback claro sobre el envío.
-* **Iconos Bootstrap:** Mejora la usabilidad y estética.
-* **Favicon Personalizado:** El logo de Bautic Studios como icono de pestaña.
-
-## 📂 Estructura del Proyecto
+## 📂 Project Structure
 ¡Ah, claro! Entendido perfectamente. Quieres la estructura de árbol usando solo
 guiones para indentación, sin los caracteres `-`, `/`, ni `-`.
 
@@ -39,36 +35,36 @@ Bautic - Embed/
 
 ````
 
-## 🚀 Instalación y Ejecución
+## 🚀 Installation and Execution
 
-### Requisitos
+### Requirements
 
-Necesitas [Python](https://www.python.org/downloads/) (3.6+ recomendado) y `pip`.
+You need [Python](https://www.python.org/downloads/) (3.6+ recommended) and `pip`.
 
-### Configuración
+### Setup
 
-1.  Crea la estructura de carpetas indicada.
-2.  Coloca los archivos en sus ubicaciones (`app.py`, `index.html`, `style.css`, `script.js`, `logo.png`).
+1.  Create the indicated folder structure.
+2.  Place the files in their respective locations (`app.py`, `index.html`, `style.css`, `script.js`, `logo.png`).
 
 ````
-### Dependencias
+### Dependencies
 
-Instala las librerías desde la raíz del proyecto:
+Install the libraries from the project root:
 
 ```bash
 pip install Flask requests
 ```
-### Ejecutar Aplicación
+### Run Application
 
-Desde la raíz del proyecto, inicia Flask:
+From the project root, start Flask:
 
 ```bash
 python app.py
 ```
 
-### Acceder al Dashboard
+### Access Dashboard
 
-Abre tu navegador y visita:
+Open your browser and visit:
 
 ```
 [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
@@ -76,39 +72,27 @@ Abre tu navegador y visita:
 
 Si el diseño no es el esperado, verifica `static/css/style.css` con el código provisto.
 
-## 📋 Uso
+## 📋 Usage
+1. Get Your Webhook: Configure a Webhook in Discord and copy its URL.
+2. Enter URL: Paste the URL into the "Discord Webhook URL" field.
+3. Fill Embed: Complete the embed details (title, description, author, color, etc.).
+4. Add Fields: Use "Add Field" to add custom fields.
+5. Send: Click "Send Embed" (top bar) to send the message.
+6. Check Status: Review success or error messages in the interface.
 
-1.  **Obtén tu Webhook:** Configura un Webhook en Discord y copia su URL.
-2.  **Ingresa URL:** Pega la URL en el campo "Discord Webhook URL".
-3.  **Rellena el Embed:** Completa los detalles (título, descripción, autor, color, etc.).
-4.  **Añade Campos:** Usa "Add Field" para agregar campos personalizados.
-5.  **Envía:** Haz clic en "Send Embed" (barra superior) para enviar el mensaje.
-6.  **Verifica Estado:** Revisa los mensajes de éxito o error en la interfaz.
+## ⬇️ Download
 
-## ⬇️ Descarga
-
-Tienes dos opciones para obtener el proyecto:
-
-1.  **Clonar el Repositorio (Recomendado para desarrolladores):**
-
-    ```bash
-    git clone [https://github.com/tu-usuario/nombre-de-tu-repositorio.git](https://github.com/tu-usuario/nombre-de-tu-repositorio.git)
-    ```
-
-    *(Asegúrate de reemplazar `tu-usuario` y `nombre-de-tu-repositorio` con los datos reales de tu repositorio en GitHub.)*
-
-2.  **Descargar como ZIP (Para usuarios sin Git):**
-    Puedes descargar la última versión del código fuente directamente como un archivo ZIP desde la página de GitHub de este repositorio. Simplemente haz clic en el botón verde `<> Code` y luego selecciona `Download ZIP`.
+You have two options to get the project:
+"You can download the latest version of the source code directly as a ZIP file from this repository's GitHub page. Simply click the green `<> Code` button and then select `Download ZIP`."
 
     [**Descargar Proyecto como ZIP**](https://github.com/Mrblour/Bautic-Embed/archive/refs/heads/main.zip)
     *(si tienes al error y quieres soporte sigue los pasos de abajo)*
 
-## 🤝 Soporte
+## 🤝 Support
+For issues, questions, or help:
 
-Para problemas, preguntas o ayuda:
-
-  * **Abre un `Issue`** en este repositorio de GitHub.
-  * **Contáctanos:** [Nuestro Discord](https://discord.gg/tX3YS4xGgF)).
+  * **Open an `Issue` in this GitHub repository.
+  * **Contact us: ** [Nuestro Discord](https://discord.gg/tX3YS4xGgF)).
 
 <!-- end list -->
 
