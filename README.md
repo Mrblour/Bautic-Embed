@@ -101,14 +101,14 @@ Tienes dos opciones para obtener el proyecto:
     Puedes descargar la última versión del código fuente directamente como un archivo ZIP desde la página de GitHub de este repositorio. Simplemente haz clic en el botón verde `<> Code` y luego selecciona `Download ZIP`.
 
     [**Descargar Proyecto como ZIP**](https://www.google.com/search?q=https://github.com/tu-usuario/nombre-de-tu-repositorio/archive/refs/heads/main.zip)
-    *(Reemplaza `tu-usuario`, `nombre-de-tu-repositorio` y `main.zip` (por la rama principal de tu repositorio, que puede ser `main` o `master`) con tus datos reales.)*
+    *(si tienes al error y quieres soporte sigue los pasos de abajo)*
 
 ## 🤝 Soporte
 
 Para problemas, preguntas o ayuda:
 
   * **Abre un `Issue`** en este repositorio de GitHub.
-  * **Contáctanos:** [tu-correo-electronico@example.com](mailto:tu-correo-electronico@example.com) o visita nuestro sitio web [https://bauticstudios.com](https://bauticstudios.com).
+  * **Contáctanos:** [Nuestro Discord][(mailto:tu-correo-electronico@example.com](https://discord.gg/tX3YS4xGgF)).
 
 <!-- end list -->
 
