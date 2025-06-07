@@ -3,12 +3,15 @@
 # Discord Embed Creator - Bautic Studios
 
 
-Este proyecto Flask crea y envía Discord Embeds vía webhook. Su interfaz es moderna y visualmente atractiva, inspirada en "OnlyPipe" y "Paysend link", con un fondo degradado vibrante, glassmorphism sutil y sin sombras.
+Este proyecto Flask crea y envía Discord Embeds vía webhook. Su interfaz es moderna y visualmente atractiva,
+inspirada en "OnlyPipe" y "Paysend link", con un fondo degradado vibrante, glassmorphism sutil y sin sombras.
 
 ## 🌟 Características Principales
 
-* **Interfaz Moderna:** Diseño con fondo degradado (azul a negro, o morado oscuro a vibrante, similar a OnlyPipe), glassmorphism y estilo sin sombras.
-* **Creación de Embeds Completa:** Configura autor, cuerpo, color, imágenes, pie de página y timestamp.
+* **Interfaz Moderna:** Diseño con fondo degradado (azul a negro, o morado oscuro
+a vibrante, similar a OnlyPipe), glassmorphism y estilo sin sombras.
+* **Creación de Embeds Completa:** Configura autor, cuerpo, color,
+imágenes, pie de página y timestamp.
 * **Campos Dinámicos:** Agrega y elimina campos (`fields`) directamente desde la interfaz.
 * **Validación de URL:** Asegura la validez de las URLs.
 * **Mensajes de Estado:** Feedback claro sobre el envío.
@@ -16,13 +19,10 @@ Este proyecto Flask crea y envía Discord Embeds vía webhook. Su interfaz es mo
 * **Favicon Personalizado:** El logo de Bautic Studios como icono de pestaña.
 
 ## 📂 Estructura del Proyecto
-¡Ah, claro! Entendido perfectamente. Quieres la estructura de árbol usando solo guiones para indentación, sin los caracteres `├──`, `└──`, ni `│`.
+¡Ah, claro! Entendido perfectamente. Quieres la estructura de árbol usando solo
+guiones para indentación, sin los caracteres `-`, `/`, ni `-`.
 
 Aquí tienes la "Estructura del Proyecto" con ese formato simplificado:
-
-```markdown
-## 📂 Estructura del Proyecto
-
 Bautic - Embed/
 - app.py
 - templates/
