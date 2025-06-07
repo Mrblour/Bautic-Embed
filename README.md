@@ -25,7 +25,7 @@ Este proyecto Flask crea y envía Discord Embeds vía webhook. Su interfaz es mo
 
 ```
 
-tu\_proyecto
+Bautic - Embed
 - app.py
 - templates
 - - index.html
