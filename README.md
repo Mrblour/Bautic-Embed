@@ -56,8 +56,8 @@ pip install Flask requests
 ### Ejecutar Aplicación
 
 Desde la raíz del proyecto, inicia Flask:
-
-```bash
+bash
+```
 python app.py
 ```
 
