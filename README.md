@@ -100,7 +100,7 @@ Tienes dos opciones para obtener el proyecto:
 2.  **Descargar como ZIP (Para usuarios sin Git):**
     Puedes descargar la última versión del código fuente directamente como un archivo ZIP desde la página de GitHub de este repositorio. Simplemente haz clic en el botón verde `<> Code` y luego selecciona `Download ZIP`.
 
-    [**Descargar Proyecto como ZIP**](https://www.google.com/search?q=https://github.com/tu-usuario/nombre-de-tu-repositorio/archive/refs/heads/main.zip)
+    [**Descargar Proyecto como ZIP**][(https://www.google.com/search?q=https://github.com/tu-usuario/nombre-de-tu-repositorio/archive/refs/heads/main.zip](https://github.com/Mrblour/Bautic-Embed/archive/refs/heads/main.zip))
     *(si tienes al error y quieres soporte sigue los pasos de abajo)*
 
 ## 🤝 Soporte
