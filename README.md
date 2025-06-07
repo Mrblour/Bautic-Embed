@@ -50,8 +50,8 @@ Necesitas [Python](https://www.python.org/downloads/) (3.6+ recomendado) y `pip`
 Instala las librerías desde la raíz del proyecto:
 bash
 ```
-````
 pip install Flask requests
+```
 ````
 
 ### Ejecutar Aplicación
