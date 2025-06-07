@@ -16,20 +16,26 @@ Este proyecto Flask crea y envía Discord Embeds vía webhook. Su interfaz es mo
 * **Favicon Personalizado:** El logo de Bautic Studios como icono de pestaña.
 
 ## 📂 Estructura del Proyecto
+¡Ah, claro! Entendido perfectamente. Quieres la estructura de árbol usando solo guiones para indentación, sin los caracteres `├──`, `└──`, ni `│`.
 
-```
+Aquí tienes la "Estructura del Proyecto" con ese formato simplificado:
+
+```markdown
+## 📂 Estructura del Proyecto
 
 Bautic - Embed/
-├── app.py
-├── templates/
-│   └── index.html
-└── static/
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-└── images/
-└── logo.png
+- app.py
+- templates/
+  - index.html
+- static/
+  - css/
+    - style.css
+  - js/
+    - script.js
+  - images/
+    - logo.png
+
+```
 
 ````
 
