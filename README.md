@@ -1,4 +1,4 @@
-![Bautic Studios Logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/ca4ab0226866091.6835ef0b40165.png)
+![Bautic Studios Logo](https://mir-cdn.behance.net/v1/rendition/project_modules/source/27d9e9226866091.684616638766c.png)
 ```markdown
 # Discord Embed Creator - Bautic Studios
 
